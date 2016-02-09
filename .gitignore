@@ -9,3 +9,6 @@ target
 java-repl-intellij-plugin.zip
 out
 
+nbproject/
+nbbuild.xml
+manifest.mf
